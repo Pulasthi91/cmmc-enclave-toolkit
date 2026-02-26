@@ -205,7 +205,7 @@ MIT License — see [LICENSE](LICENSE). Free for use by any organization.
 ## 👤 Author
 
 **Pulasthi Batuwita**
-Cybersecurity Lead | CMMC Practitioner | (ISC)² SSCP | RHCSA
+Cybersecurity Analyst | CMMC Practitioner | (ISC)² SSCP | RHCSA
 - Website: [thevulnerabilitynews.com](https://thevulnerabilitynews.com)
 - LinkedIn: [linkedin.com/in/pulasthibatuwita9](https://linkedin.com/in/pulasthibatuwita9)
 
