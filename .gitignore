@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Environment / secrets — NEVER commit these
+enclave/.env
+*.pem
+*.key
+*.crt
+vpn-config/
+
+# Assessment outputs (contain potentially sensitive scoping data)
+reports/*.json
+reports/*_report.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
