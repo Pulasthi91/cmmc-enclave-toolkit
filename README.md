@@ -41,7 +41,7 @@ The primary challenge for SMBs:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cmmc-enclave-toolkit.git
+git clone https://github.com/Pulasthi91/cmmc-enclave-toolkit.git
 cd cmmc-enclave-toolkit
 
 # Install dependencies
